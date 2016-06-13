@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/twhitbeck/angular-cropper#readme",
   "dependencies": {
-    "angular-file-reader": "^1.0.0"
+    "angular-file-reader": "Colorfulstan/angular-file-reader"
   },
   "peerDependencies": {
     "angular": "^1.4.8"
